@@ -1,0 +1,7 @@
+C:\Users\neilr\OneDrive\professional\development\portfolio\neil_ranada_software_engineer\neil_ranada_software_engineer\obj\Release\net7.0\PubTmp\Out\neil_ranada_software_engineer.exe
+C:\Users\neilr\OneDrive\professional\development\portfolio\neil_ranada_software_engineer\neil_ranada_software_engineer\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\neilr\OneDrive\professional\development\portfolio\neil_ranada_software_engineer\neil_ranada_software_engineer\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\neilr\OneDrive\professional\development\portfolio\neil_ranada_software_engineer\neil_ranada_software_engineer\obj\Release\net7.0\PubTmp\Out\neil_ranada_software_engineer.dll
+C:\Users\neilr\OneDrive\professional\development\portfolio\neil_ranada_software_engineer\neil_ranada_software_engineer\obj\Release\net7.0\PubTmp\Out\neil_ranada_software_engineer.deps.json
+C:\Users\neilr\OneDrive\professional\development\portfolio\neil_ranada_software_engineer\neil_ranada_software_engineer\obj\Release\net7.0\PubTmp\Out\neil_ranada_software_engineer.runtimeconfig.json
+C:\Users\neilr\OneDrive\professional\development\portfolio\neil_ranada_software_engineer\neil_ranada_software_engineer\obj\Release\net7.0\PubTmp\Out\neil_ranada_software_engineer.pdb
